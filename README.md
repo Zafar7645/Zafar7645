@@ -33,11 +33,12 @@ My approach combines technical proficiency with a strong focus on **UI/UX design
 
 ## 💡 Projects
 
+### **SyncUp (Angular, NestJS, PostgreSQL - In Progress)**
+
+A full-stack project management web application under active development. This project is strengthening my core full-stack knowledge, utilizing **Angular** for the frontend, **NestJS** for a scalable, modular backend, and **PostgreSQL** for the database. [**View Repository**](https://github.com/Zafar7645/syncup)
+
 ### **CineVerse Dashboard (Angular, Node.js BFF)**
 A project designed to strengthen Angular fundamentals, featuring the implementation of a **Backend for Frontend (BFF) server** in Node.js to integrate and manage data from the TMDB API. [**View Repository**](https://github.com/Zafar7645/cineverse-dashboard)
-
-### **SyncUp (MEAN Stack - In Progress)**
-Currently developing a full-stack project management web application to deepen my core knowledge of the **MongoDB, Express, Angular, and Node.js (MEAN)** stack.
 
 ### **EyeSuggest (Dart, Flutter, Firebase)**
 A Flutter mobile application that measures visual acuity using a digital Snellen Chart and speech-to-text conversion, enabling users to independently assess vision health. [**View Repository (Screenshots & Video Demo Available)**](https://github.com/Zafar7645/EyeSuggest)
